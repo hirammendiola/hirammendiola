@@ -62,7 +62,7 @@ I'm currently open to new challenges where I can deliver exceptional outcomes an
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirammendiola&theme=tokyonight" alt="mystreak"/>
 
-
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 ---
 
 ⭐️ From [Hiram Mendiola](https://github.com/hirammendiola)
