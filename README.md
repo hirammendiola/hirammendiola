@@ -60,3 +60,7 @@ I'm currently open to new challenges where I can deliver exceptional outcomes an
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirammendiola&theme=tokyonight" alt="mystreak"/>
+
+---
+
+⭐️ From [Hiram Mendiola](https://github.com/hirammendiola)
