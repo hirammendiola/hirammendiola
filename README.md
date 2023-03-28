@@ -1,7 +1,7 @@
 #  I'm Hiram Mendiola
 
 Hi there! 👋 I'm a passionate Front-End Web Developer with a strong background in Management Information Systems. I love teaching, learning, and collaborating on open-source projects to make a positive impact on the tech community.
-<img src="https://komarev.com/ghpvc/?username=hirammendiola&color=brightgreen" alt="watching_count" />
+
 
 ## 🎓 Education
 
