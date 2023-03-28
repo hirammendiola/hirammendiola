@@ -61,30 +61,7 @@ I'm currently open to new challenges where I can deliver exceptional outcomes an
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirammendiola&theme=tokyonight" alt="mystreak"/>
 
-name: Contribution snake
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update snake grid
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: hirammendiola
-          svg_out_path: dist/github-contribution-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 ⭐️ From [Hiram Mendiola](https://github.com/hirammendiola)
