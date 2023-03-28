@@ -48,9 +48,6 @@ My main focus on GitHub is to share open-source projects and components, enablin
   <a href="https://www.linkedin.com/in/hirammch/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
   <a href="mailto:mendiolahiram@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -63,7 +60,3 @@ I'm currently open to new challenges where I can deliver exceptional outcomes an
 ## 📈 GitHub Stats
 
 ![Hiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirammendiola&show_icons=true&theme=radical)
-
----
-
-⭐️ From [Hiram Mendiola](https://github.com/hirammendiola)
